@@ -1,4 +1,4 @@
-该ahk脚本主要有以下功能
+该ahk脚本主要有以下功能\n
 1.win + o: 自动运行potplayer，onenote, 和我自定义的一个公开课文件夹路径（我的电脑默认了用TC打开）
 2.ctrl + win + o, 和上诉操作相反，都是关闭
 3.win + b: 自动运行一个电子书文件夹，onenote，drawborad PDF
